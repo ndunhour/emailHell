@@ -1,5 +1,12 @@
 // create an empty var to store emails sent
 
+//  to access the emailLog.js,
+  // 1. index.html must have both the js with the info and the js using the file
+          // <script src="emailLog.js"></script>
+          // <script src="emailHell.js"></script>
+
+
+
 var listOfEmails = {};
 
 // loop through emails sent
